@@ -6,7 +6,7 @@ My seventh project for the Treehouse Full-Stack Javascript Techdegree. This is a
 
 You can use your own Flickr API to test the functionality of this app. Create a config.js file by following the format below and add it to the /src directory:
 
-const apiKey = 'ADD YOUR FLICKR API KEY HERE';
+const apiKey = 'ADD YOUR FLICKR API KEY HERE';\
 export default apiKey;
 
 ## Available Scripts
